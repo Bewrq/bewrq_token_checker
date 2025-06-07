@@ -1,7 +1,7 @@
 # Discord Token Doğrulama ve Filtreleme Aracı of sikim kasındı yine 
 
 Bu proje, elinizde bulunan Discord tokenlerini hızlı ve güvenli bir şekilde kontrol ederek geçerli ve doğrulanmış (verified) olanları ayıklamanıza yardımcı olur.
-Yani mal gibi tek tek kontrol etmeyin diye yapptım 
+Yani mal gibi tek tek kontrol etmeyin diye yapppttımmmm mucuks 
 
 ## Özellikler
 
