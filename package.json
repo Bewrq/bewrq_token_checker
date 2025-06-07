@@ -1,0 +1,10 @@
+{
+  "name": "bewrq_token_checker",
+  "version": "1.0.0",
+  "description": "bewrq tarafından yapılmıştır token checker",
+  "main": "bewrq_token_checker.js", 
+  "dependencies": {
+    "discord.js-selfbot-v13": "^3.6.1",
+    "fs": "^0.0.1-security"
+  }
+}
