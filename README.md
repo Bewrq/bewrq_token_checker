@@ -14,7 +14,10 @@ Bu proje, elinizde bulunan Discord tokenlerini hızlı ve güvenli bir şekilde 
 ## Kullanım
 
 1. Tokenlerinizi `token.txt` dosyasına her satıra bir token gelecek şekilde ekleyin.
-2. Projeyi başlatın:  
+2. Projeyi başlatın:
+   ```bash
+  npm i 
+   ```  
    ```bash
    node bewrq_tokenhecker.js
    ```
