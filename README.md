@@ -37,3 +37,9 @@ Bu proje, elinizde bulunan Discord tokenlerini hızlı ve güvenli bir şekilde 
 
 **Geliştirici:** bewrq/Ramalcım mucuk 
 **Amaç:** Discord tokenlerini hızlı ve güvenli şekilde filtrelemek.
+
+![Ekran görüntüsü 2025-06-07 173546](https://github.com/user-attachments/assets/9d3e2d7b-caa4-4004-86ec-34722ae9e9de)
+
+![3](https://github.com/user-attachments/assets/3689fafe-cede-476e-bd95-b1af54dac824)
+
+![5](https://github.com/user-attachments/assets/af059da3-bc87-4a6d-82db-38d8c866f0bf)
