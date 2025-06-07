@@ -1,6 +1,7 @@
-# Discord Token Doğrulama ve Filtreleme Aracı
+# Discord Token Doğrulama ve Filtreleme Aracı of sikim kasındı yine 
 
 Bu proje, elinizde bulunan Discord tokenlerini hızlı ve güvenli bir şekilde kontrol ederek geçerli ve doğrulanmış (verified) olanları ayıklamanıza yardımcı olur.
+Yani mal gibi tek tek kontrol etmeyin diye yapptım 
 
 ## Özellikler
 
@@ -31,7 +32,7 @@ Bu proje, elinizde bulunan Discord tokenlerini hızlı ve güvenli bir şekilde 
 
 - Bu araç sadece kendi hesaplarınız ve yasal kullanım için tasarlanmıştır.
 - Amk hep rexa Yüzünden yaptımm 
--sistemi Rexa yüzünden yaptık bu suncumuza gelmek isterseniz sizi https://discord.gg/vesperion 
+-sistemi Rexa yüzünden yaptık bu suncumuza gelmek isterseniz https://discord.gg/vesperion 
 
 ---
 
